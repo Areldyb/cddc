@@ -2,7 +2,7 @@ A Python implementation of Problem Sleuth's most famous non-canon cannon, the **
 
 Literally no one asked for this.
 
-Default behavior is slow but fun, matching the feel of the original comic page.  
+Default behavior is slow but fun, matching the feel of the [original comic page](https://www.homestuck.com/extras/20).  
 Command line options:  
 --quick *(no delays, only show dice result lines)*  
 --resultonly *(only output the final damage total. overrides --quick)*  
